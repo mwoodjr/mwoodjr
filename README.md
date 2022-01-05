@@ -3,7 +3,9 @@ Hi! I'm Miguel, I love helping out the open source community with my passoniate 
 I am really interested in backend web developement, database management, server administration, and virtualization. I am always open to learn new thing!
 
 Contacts:
-  Email: miguel@mwoodjr.com
-  Website: mwoodjr.com
+  miguel@mwoodjr.com
+  
+  
+Website: mwoodjr.com
  
   
